@@ -72,12 +72,27 @@
 
 ###
 
-<h3 align="left">🚀 Highlited projects</h3>
+<h3 align="left">🚀 Highlighted Projects</h3>
 
 ###
 
-<h6 align="left">💼 LexQuo – Full Stack Web App<br>🔗 https://lexquo.onrender.com<br><br>🧩 React · Flask · PostgreSQL · Socket.IO · Stripe · Cloudinary<br>A platform for managing projects, clients and real-time communication — developed end-to-end with focus on usability and performance.<br><br>📊 Data Science Projects (R + Shiny)<br><br>🧬 Breast Cancer Classification → https://shineon-datascience.shinyapps.io/RF-breast/<br><br>🧩 Clustering App → https://shineon-datascience.shinyapps.io/clustering/<br><br>🌳 Decision Trees Visualization → https://shineon-datascience.shinyapps.io/ArbolesDecision-app/<br><br>💼 Labor Inclusion Analytics → https://idsaequipo.shinyapps.io/EquipoIDSA/</h6>
+<h4 align="left">💼 LexQuo – Full Stack Web App</h4>
+<p align="left">
+🔗 <a href="https://lexquo.onrender.com" target="_blank">lexquo.onrender.com</a><br><br>
+🧩 <strong>Tech stack:</strong> React · Flask · PostgreSQL · Socket.IO · Stripe · Cloudinary<br><br>
+A platform for managing projects, clients and real-time communication — developed end-to-end with focus on usability and performance.
+</p>
 
+---
+
+<h4 align="left">📊 Data Science Projects (R + Shiny)</h4>
+
+<ul align="left">
+  <li>🧬 <strong>Breast Cancer Classification:</strong> <a href="https://shineon-datascience.shinyapps.io/RF-breast/" target="_blank">View project</a></li>
+  <li>🧩 <strong>Clustering App:</strong> <a href="https://shineon-datascience.shinyapps.io/clustering/" target="_blank">View project</a></li>
+  <li>🌳 <strong>Decision Trees Visualization:</strong> <a href="https://shineon-datascience.shinyapps.io/ArbolesDecision-app/" target="_blank">View project</a></li>
+  <li>💼 <strong>Labor Inclusion Analytics:</strong> <a href="https://idsaequipo.shinyapps.io/EquipoIDSA/" target="_blank">View project</a></li>
+</ul>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
